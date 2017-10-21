@@ -6,7 +6,7 @@ description: Software development incubator
 ---
 ## What is BuildUCLA?
 
-BuildUCLA is a software development incubator based in the UCLA Library. It brings together students and team leaders from the library to build tech-oriented projects that will benefit library users and the entire UCLA community
+BuildUCLA is a software development incubator based in the UCLA Library. It brings together tech-savvy students from across campus and team leaders from the library to build projects that will benefit library users and the entire UCLA community.
 
 ## Projects
 ### Projects we want to do this year & the skills needed -- on-the-job learning is encouraged:
@@ -21,7 +21,7 @@ BuildUCLA is a software development incubator based in the UCLA Library. It brin
 
 ### Past projects:
 
-* Android and iOS library apps
+* Android and iOS mobile apps for the library
 * Stashd (a citation/link storage service)
 * eLab-X -- integrated Google Drive/Dropbox/Box storage for research data, electronic lab notebooks
 
