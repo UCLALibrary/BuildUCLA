@@ -657,6 +657,25 @@ a.button small {
   display: block;
   font-size: 11px; }
 
+a.linkbutton {
+  position: absolute;
+  background: transparent url(../images/LinkedButton.png) 0 0 no-repeat;
+  bottom: 0;
+  top: 100px;
+  right: 0;
+  width: 134px;
+  height: 58px;
+  padding-top: 22px;
+  padding-left: 68px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 23px;
+  line-height: 1.2;
+  color: #fff; }
+
+a.linkbutton small {
+  display: block;
+  font-size: 11px; }
+
 header a.button {
   position: absolute;
   top: 0;
@@ -934,7 +953,29 @@ footer a:hover {
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px; }
 
+  header a.linkbutton {
+    position: relative;
+    top: 2px;
+    display: inline-block;
+    width: auto;
+    height: 23px;
+    padding: 0px 10px;
+    margin-top: 30px;
+    font-size: 13px;
+    line-height: 2;
+    color: #2879d0;
+    text-align: center;
+    background-color: #9ddcff;
+    background-image: none;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px; }
+
   header a.button small {
+    display: inline;
+    font-size: 13px; }
+
+  header a.linkbutton small {
     display: inline;
     font-size: 13px; }
 
