@@ -26,6 +26,11 @@ BuildUCLA is a software development incubator based in the UCLA Library. It brin
 * eLab-X -- integrated Google Drive/Dropbox/Box storage for research data, electronic lab notebooks
 
 
+### Who can join?
+* Current undergraduate students in CS, EE or in related fields are encouraged to apply. So are students in other departments with some coding experience. Participants typically work up to 20 hours per week as library student employees.
+* In the past, current graduate students also have been involved with specific experimental projects on a part-time or volunteer basis.
+
+
 ## Contact info:
 
 * Email <a href="mailto:builducla@library.ucla.edu">builducla@library.ucla.edu</a> for more information
