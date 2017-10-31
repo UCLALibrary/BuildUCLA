@@ -13,7 +13,7 @@ BuildUCLA is a software development incubator based in the UCLA Library. It brin
 
 1. Where to study: extending the dining halls’ wifi-based “how crowded is it now?” service to the campus libraries
 1. Consolidated Android/iOS library smartphone apps
-1. <a href="http://ec2-54-173-153-28.compute-1.amazonaws.com:8000/#/">Community Cataloging (CCing)</a>: combining crowdsourcing tech + optical character recognition + auto-translation to help the library catalog foreign-language books
+1. <a href="http://ec2-54-173-153-28.compute-1.amazonaws.com:8000/#/">Community Cataloging (CCing)</a>: combining crowdsourcing tech + optical character recognition + auto-translation to help the library catalog foreign-language books (<a href="https://docs.google.com/presentation/d/1pGWDBy5ff5xHdb0Ys462BXRf0IjP2zNrlt4sBfYiAvw/edit?usp=sharing">slides</a>.
 1. Working with UCLA digital library collections of historical photographs, news videos, maps, sound recordings and texts:
     * Building creative exploratory visualizations
     * Generating data mashups with external sources
