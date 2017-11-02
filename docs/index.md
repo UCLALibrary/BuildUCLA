@@ -17,6 +17,7 @@ BuildUCLA is a software development incubator based in the UCLA Library. It brin
     * Building creative exploratory visualizations (see examples on <a href="https://collectionslab.github.io/experiments/">this page</a>)
     * Generating data mashups with external sources
     * Training machine-learning models for enhanced search and discovery
+1. We're open to other suggestions!
 
 ### Past projects:
 
