@@ -11,9 +11,9 @@ BuildUCLA is a software development incubator based in the UCLA Library. It brin
 ## Projects
 ### Projects we want to do this year & the skills needed -- on-the-job learning is encouraged:
 
-1. Mobile: Improving the Library's iOS smartphone app, or working on a platform-independent phone app based on React Native.
-1. Web: Continuing work on <a href="http://ec2-54-173-153-28.compute-1.amazonaws.com:8000/#/">Community Cataloging (CCing)</a>, a project that combines crowdsourcing tech + optical character recognition + auto-translation to help the library catalog foreign-language books (<a href="https://docs.google.com/presentation/d/1pGWDBy5ff5xHdb0Ys462BXRf0IjP2zNrlt4sBfYiAvw/edit?usp=sharing">slides</a>).
-1. Collections Lab: Working with UCLA digital library collections of historical photographs, news videos, maps, sound recordings and texts (sample collections <a href="https://collectionslab.github.io/collections/">here</a>):
+1. *Mobile:* Improving the Library's iOS smartphone app, or working on a platform-independent phone app based on React Native.
+1. *Web:* Continuing work on <a href="http://ec2-54-173-153-28.compute-1.amazonaws.com:8000/#/">Community Cataloging (CCing)</a>, a project that combines crowdsourcing tech + optical character recognition + auto-translation to help the library catalog foreign-language books (<a href="https://docs.google.com/presentation/d/1pGWDBy5ff5xHdb0Ys462BXRf0IjP2zNrlt4sBfYiAvw/edit?usp=sharing">slides</a>).
+1. *Collections Lab:* Working with UCLA digital library collections of historical photographs, news videos, maps, sound recordings and texts (sample collections <a href="https://collectionslab.github.io/collections/">here</a>):
     * Building creative exploratory visualizations (see examples on <a href="https://collectionslab.github.io/experiments/">this page</a>)
     * Generating data mashups with external sources
     * Training machine-learning models for enhanced search and discovery
