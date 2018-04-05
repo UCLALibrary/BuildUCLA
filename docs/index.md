@@ -26,7 +26,7 @@ BuildUCLA is a software development incubator based in the UCLA Library. It brin
 
 ### Who can join?
 * Current undergraduate students in CS, EE or in related fields are encouraged to apply. So are students in other departments with some coding experience. Participants typically work up to 20 hours per week as library student employees.
-* Experience with the technologies to be used for specific projects (front-ends, databases, etc.) is appreciated but not required -- on-the-job learning is encouraged!
+* Experience with the technologies to be used for specific projects (front-ends, databases, etc.) is appreciated but not required. On-the-job learning is encouraged!
 * Current graduate students also can be involved with specific experimental projects on a part-time or volunteer basis.
 
 
