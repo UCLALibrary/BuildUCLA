@@ -9,15 +9,13 @@ description: Software development incubator
 BuildUCLA is a software development incubator based in the UCLA Library. It brings together tech-savvy students from across campus and team leaders from the library to build projects that will benefit library users and the entire UCLA community.
 
 ## Projects
-### Projects we want to do this year & the skills needed -- on-the-job learning is encouraged:
+### Projects in progress this year:
 
 1. **Mobile:** Improving the Library's iOS smartphone app, or working on a platform-independent phone app based on React Native.
-1. **Web:** Continuing work on <a href="http://ec2-54-173-153-28.compute-1.amazonaws.com:8000/#/">Community Cataloging (CCing)</a>, a project that combines crowdsourcing tech + optical character recognition + auto-translation to help the library catalog foreign-language books (<a href="https://docs.google.com/presentation/d/1pGWDBy5ff5xHdb0Ys462BXRf0IjP2zNrlt4sBfYiAvw/edit?usp=sharing">slides</a>).
-1. **Collections Lab:** Working with UCLA digital library collections of historical photographs, news videos, maps, sound recordings and texts (sample collections <a href="https://collectionslab.github.io/collections/">here</a>):
-    * Building creative exploratory visualizations (see examples on <a href="https://collectionslab.github.io/experiments/">this page</a>)
-    * Generating data mashups with external sources
-    * Training machine-learning models for enhanced search and discovery
-1. We're open to other suggestions!
+1. **<a href="https://docs.library.ucla.edu/display/BUILD/CrowdTagging">CrowdTagging:</a>** Formerly <a href="http://ec2-54-173-153-28.compute-1.amazonaws.com:8000/#/">Community Cataloging (CCing)</a>, a project to build a crowdsourcing interface using Node.js, AngularJS and Amazon Firebase to help the library catalog foreign-language books (<a href="https://docs.google.com/presentation/d/1pGWDBy5ff5xHdb0Ys462BXRf0IjP2zNrlt4sBfYiAvw/edit?usp=sharing">slides</a>).
+1. **Annotated Books + Machine Learning:** Project to use deep-learning and other ML approaches to detect and automatically classify handwritten annotations in historical printed books, focusing on the UCLA Clark Library's <a href="https://calisphere.org/collections/26771/">Early Modern Annotated Books collection</a>.
+1. **<a href="https://github.com/UCLALibrary/ImageCollectionNavigator">Image Collection Navigator:</a>** Building an experimental interactive viewer for historical photos of UCLA from the University Archives, to be used in the Centennial Campaign celebrations
+1. **Suggestions welcome:** We're open to other project ideas, especially those that involve working with UCLA digital library. collections of historical photographs, news videos, maps, sound recordings and texts (sample collections <a href="https://collectionslab.github.io/collections/">here</a>, ideas for experimental visualizations <a href="https://collectionslab.github.io/experiments/">here</a>).
 
 ### Past projects:
 
@@ -28,7 +26,8 @@ BuildUCLA is a software development incubator based in the UCLA Library. It brin
 
 ### Who can join?
 * Current undergraduate students in CS, EE or in related fields are encouraged to apply. So are students in other departments with some coding experience. Participants typically work up to 20 hours per week as library student employees.
-* In the past, current graduate students also have been involved with specific experimental projects on a part-time or volunteer basis.
+* Experience with the technologies to be used for specific projects (front-ends, databases, etc.) is appreciated but not required -- on-the-job learning is encouraged!
+* Current graduate students also can be involved with specific experimental projects on a part-time or volunteer basis.
 
 
 ## Contact info:
