@@ -13,7 +13,7 @@ BuildUCLA is a software development incubator based in the UCLA Library. It brin
 
 1. **Mobile:** Improving the Library's iOS smartphone app, or working on a platform-independent phone app based on React Native.
 1. **<a href="http://ec2-54-173-153-28.compute-1.amazonaws.com:3000/">CrowdTagging:</a>** Formerly Community Cataloging (CCing), a project to build a crowdsourcing interface using Node.js, AngularJS and Amazon Firebase to help the library catalog foreign-language books (<a href="https://docs.google.com/presentation/d/1pGWDBy5ff5xHdb0Ys462BXRf0IjP2zNrlt4sBfYiAvw/edit?usp=sharing">slides</a>).
-1. **Annotated Books + Machine Learning:** Uses deep learning and other ML approaches to detect and automatically classify handwritten annotations in historical printed books, focusing on the UCLA Clark Library's <a href="https://calisphere.org/collections/26771/">Early Modern Annotated Books collection</a>.
+1. **Annotated Books + Machine Learning:** [Omniscribe](https://github.com/collectionslab/Omniscribe)uses deep learning and other ML approaches to detect and automatically classify handwritten annotations in historical printed books, focusing on the UCLA Clark Library's <a href="https://calisphere.org/collections/26771/">Early Modern Annotated Books collection</a>.
 1. **<a href="https://github.com/UCLALibrary/ImageCollectionNavigator">Image Collection Navigator:</a>** Building an experimental interactive viewer for historical photos of UCLA from the University Archives, to be used in the Centennial Campaign celebrations.
 1. **Suggestions welcome:** We're open to other project ideas, especially those that involve working with UCLA digital library's collections of historical photographs, news videos, maps, sound recordings and texts (sample collections <a href="https://collectionslab.github.io/collections/">here</a>, ideas for experimental visualizations <a href="https://collectionslab.github.io/experiments/">here</a>).
 
@@ -35,7 +35,5 @@ BuildUCLA is a software development incubator based in the UCLA Library. It brin
 * Email <a href="mailto:builducla@library.ucla.edu">builducla@library.ucla.edu</a> for more information
 
 ### Library supervisors:
-* Peter Broadwell, Academic Projects Developer, UCLA Digital Library
-* Dawn Childress, Librarian, Digital Collections & Scholarship, UCLA Digital Library
-* Andrew Wallace, Software Developer, UCLA Digital Library
+* Tim Dennis, Director, Data Science Center
 
